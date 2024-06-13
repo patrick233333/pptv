@@ -1,7 +1,7 @@
 muban.mxone5.二级.desc = ';;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 muban.mxone5.二级.tab_text = 'body--small&&Text';
 var rule= {
-	title:'量子影视',
+	title:'量子影视[资]',
 	模板:'mxone5',
 	host:'http://www.lzizy9.com',
 	// url:'/index.php/vod/show/id/fyclass/page/fypage.html',

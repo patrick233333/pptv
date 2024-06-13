@@ -2,7 +2,7 @@
 
 var rule = {
     模板: '采集1',
-    title: '量子资源',
+    title: '量子资源[资]',
     host: 'https://cj.lziapi.com',
     // homeTid: '13',
     homeTid: '',

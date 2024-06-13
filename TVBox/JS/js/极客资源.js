@@ -2,7 +2,7 @@
 
 var rule = {
     模板: '采集1',
-    title: '极客资源',
+    title: '极客资源[资]',
     host: 'https://www.jkdy.cc',
     // homeTid: '13',
     homeTid: '',

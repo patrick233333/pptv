@@ -3,7 +3,7 @@
 
 var rule = {
     模板: '采集1',
-    title: '索尼资源',
+    title: '索尼资源[资]',
     host: 'https://suoniapi.com',
     // homeTid: '13',
     homeTid: '',

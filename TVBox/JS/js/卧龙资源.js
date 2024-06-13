@@ -2,7 +2,7 @@
 
 var rule = {
     模板: '采集1',
-    title: '卧龙资源',
+    title: '卧龙资源[资]',
     host: 'https://collect.wolongzyw.com',
     // homeTid: '13',
     homeTid: '',

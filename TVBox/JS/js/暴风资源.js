@@ -2,7 +2,7 @@
 
 var rule = {
     模板: '采集1',
-    title: '暴风资源',
+    title: '暴风资源[资]',
     host: 'https://bfzyapi.com',
     // homeTid: '13',
     homeTid: '',
