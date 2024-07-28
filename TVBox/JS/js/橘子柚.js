@@ -22,10 +22,10 @@ var rule = {
   cate_exclude: '今日|热榜',
   play_parse: true,
   //推送阿里播放  支持影视壳
-  lazy:  `js:
+  lazy: `js:
     var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
     var url = html.url;
-    if (url.includes("www.alipan.com") || url.includes("www.aliyundrive.com") || url.includes("https://pan.xunlei.com/s/")){
+    if (url.includes("www.alipan.com") || url.includes("www.aliyundrive.com")){
     input = 'push://'+url;
     }
   `,

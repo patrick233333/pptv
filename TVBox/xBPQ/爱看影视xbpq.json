@@ -1,11 +1,10 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
   "站名": "爱看影视",
-  "主页url": "https://ikanys.tv",
+  "主页url": "https://www.wwgz.cn",
   
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4#日韩剧$15#美剧$16#港台剧$14#纪录片$20",
   
-  "分类url": "https://ikanys.tv/vodtype/{cateId}/",
+  "分类url": "https://www.wwgz.cn/vodtype/{cateId}/",
   
   "副标题": "text-right\">&&</span>",
   
